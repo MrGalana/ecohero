@@ -89,12 +89,6 @@ Conceitos utilizados:
 
 ---
 
-## 📸 Preview
-
-![Preview do projeto](./assets/ecohero_gif.gif)
-
----
-
 ## 📁 Acesso ao projeto
 
 Você pode [acessar o código fonte do projeto inicial](https://github.com/MrGalana/ecohero.git) ou [baixá-lo](https://github.com/MrGalana/ecohero/archive/refs/heads/main.zip).
