@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="ecohero_card" src="https://github.com/user-attachments/assets/4554febc-eedf-41b6-82e1-53f6c641a693" />
+
+![](https://img.shields.io/badge/License-MIT-green)
+
 # 🌱 EcoHero
 
 Projeto desenvolvido com o objetivo de **revisar e praticar o uso de CSS Grid**, aplicando os conceitos em uma página web temática de uma loja fictícia de produtos ecológicos chamada **EcoHero**.
@@ -87,7 +91,7 @@ Conceitos utilizados:
 
 ## 📸 Preview
 
-> *(Adicione aqui uma imagem ou GIF da página em funcionamento)*
+![Preview do projeto](./assets/ecohero_gif.gif)
 
 ---
 
