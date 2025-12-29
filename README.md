@@ -122,7 +122,7 @@ A **EcoHero** é uma loja fictícia criada para reforçar a importância da sust
 
 ## ✨ Autor
 
-Desenvolvido por **Ramon** 💚  
+Desenvolvido com 💚 por **Ramon Galana Luglio**  
 Estudante de Tecnologia da Informação / Apaixonado por Análise e Desenvolvimento de Sistemas
 
 ---
