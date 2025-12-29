@@ -1,0 +1,31 @@
+:root {
+    --cor-texto-principal: #1B211A;
+    --cor-texto-secundario: #5E6E89;
+    --cor-texto: #EFEFEF;
+    --fonte-texto: "Neucha", cursive;
+    --fonte-titulo: "Gochi Hand", cursive;
+
+    --cor-links: #206A5D;
+
+    --cor-destaque-principal: #F39EB6;
+    --cor-destaque-secundario: #A3D78A;
+
+    --cor-fundo-botao: #007E6E;
+
+    --cor-de-fundo: #FFFFFF;
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+}
+
+main {
+    width: 100%;
+}
